@@ -48,7 +48,7 @@
 ## 💻 Technical Skills | المهارات التقنية
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,php,laravel,mysql,firebase,nodejs,git,github,vscode,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,bootstrap,php,laravel,mysql,firebase,supabase,nodejs,git,github,vscode,figma,vercel" />
 </p>
 
 <table style="margin:auto;" width="100%">
