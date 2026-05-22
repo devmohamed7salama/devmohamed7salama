@@ -1,8 +1,7 @@
 # <p align="center"> Mohamed Salama | محمد سلامة </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Engineer;Building+Modern+Web+Experiences;مطور+واجهات+أمامية+وخلفية;مهندس+رياكت+ولارافيل" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%26+Laravel+Engineer;Building+Modern+Web+Apps" /></p>
 
 <p align="center">
   <a href="https://dev-mohamed-salama.vercel.app/">
@@ -115,6 +114,46 @@
 </p>
 
 ---
+## 🧰 Development Tools & Environment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,windows" />
+<img src="https://skillicons.dev/icons?i=docker,mysql,php,laravel" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/Laragon-2C2C2C?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Antigravity-6A5ACD?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🚀 Deployment & Hosting
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Apache-DA291C?style=for-the-badge&logo=apache&logoColor=white" />
+
+</p>
+
+---
+
 ## 🤖 AI & Smart Tools
 
 I actively integrate AI into development workflows to build smarter, faster, and more intelligent systems 🚀
@@ -142,9 +181,44 @@ I actively integrate AI into development workflows to build smarter, faster, and
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Code-000000?style=for-the-badge&logo=code&logoColor=white" />
 </p>
+
+---
+
+## 🧠 AI-Assisted Development Workflow
+
+I use AI as a **development accelerator**, not just a tool:
+
+- ⚡ Writing clean and optimized prompts for real engineering tasks  
+- 🧩 Using AI to speed up debugging and problem solving  
+- 🛠 Assisting in code generation, refactoring, and architecture ideas  
+- 📊 Improving UX flows and system logic with AI suggestions  
+- 🚀 Integrating AI into real production features  
+
+---
+
+## 💻 Terminal & CLI Skills
+
+I’m comfortable working with the terminal as part of daily development workflow:
+
+- 🐧 Linux / Bash basics for development workflow  
+- 📦 Package management & project setup via CLI  
+- 🔧 Git & GitHub version control from terminal  
+- 🚀 Running and deploying full-stack applications  
+- ⚙️ Automating repetitive tasks using CLI tools  
+
+---
+
+## ✍️ Prompt Engineering Mindset
+
+I don’t just “use AI” — I communicate with it effectively:
+
+- 🎯 Writing structured and goal-oriented prompts  
+- 🧠 Breaking down complex problems for AI assistance  
+- 🔁 Iterating prompts for better outputs  
+- ⚙️ Using AI as a co-pilot in real development scenarios 
 
 ---
 ## 🚀 Featured Projects | المشاريع المميزة
