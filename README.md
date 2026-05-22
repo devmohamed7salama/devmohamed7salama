@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,php,laravel,mysql,firebase,nodejs,git,github,vscode,figma,vercel" />
 </p>
 
-<table width="100%">
+<table style="margin:auto;" width="100%">
   <tr>
     <th width="25%">Frontend</th>
     <th width="25%">Backend</th>
@@ -66,6 +66,52 @@
     <td align="center">LMS Architectures<br>SaaS Development<br>AI Integration</td>
   </tr>
 </table>
+
+---
+# 🧠 What I Can Build
+
+<table style="margin:auto;" width="100%">
+<tr>
+<td>
+
+### 🚀 Platforms & Systems
+- SaaS Platforms  
+- Learning Management Systems (LMS)  
+- Business Management Systems  
+- Real Estate Platforms  
+
+</td>
+<td>
+
+### 💻 Web Development
+- Full Stack Web Applications  
+- Admin Dashboards  
+- Responsive Landing Pages  
+- Authentication & Role Systems  
+
+</td>
+<td>
+
+### 🤖 Advanced Solutions
+- AI-Integrated Systems  
+- Exam & Quiz Platforms  
+- API-Driven Architectures  
+- Scalable System Design  
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Engineering Approach
+
+<p align="center">
+
+🧩 Scalable Architecture • 🛠 Maintainable Code • 🚀 Production Ready  
+🎨 Modern UI/UX • ⚡ Performance Optimized • 🔒 Secure by Design  
+
+</p>
 
 ---
 
