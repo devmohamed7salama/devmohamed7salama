@@ -154,11 +154,7 @@
 ## 📊 GitHub Stats | إحصائيات جيتهاب
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmohamed7salama&show_icons=true&theme=tokyonight&count_private=true" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmohamed7salama&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohamed7salama&layout=compact&theme=tokyonight" />
 </p>
 
 ---
