@@ -5,7 +5,9 @@ Full Stack Developer | React & Laravel Engineer 🚀
 </h3>
 
 <p align="center">
-<img src="PUT_YOUR_PROFILE_IMAGE_HERE" width="180" style="border-radius:50%" />
+<img  alt="personalIMG" src="https://github.com/user-attachments/assets/2fb78f2f-6100-4143-b573-11b120f97c79"
+<img width="800" height="800" alt="LOGO22" src="https://github.com/user-attachments/assets/fd727cbc-8e37-4555-b5b6-fbc299eea80f" />
+width="180" style="border-radius:50%" />
 </p>
 
 <p align="center">
@@ -28,7 +30,8 @@ Full Stack Developer | React & Laravel Engineer 🚀
 # 🏛️ University
 
 <p align="center">
-<img src="PUT_UNIVERSITY_LOGO_HERE" width="120"/>
+  
+  <img width="800" height="800" alt="LOGO22" src="https://github.com/user-attachments/assets/6c0489dd-9649-49e7-8f01-8b5111bf7791" />
 </p>
 
 <p align="center">
@@ -52,9 +55,9 @@ New Mansoura University
 ---
 
 ## 🏢 T-Square
+<p align="center"><img width="673" height="513" alt="logo" src="https://github.com/user-attachments/assets/23bb9db5-d0f6-4762-b28e-19126259ce76" />
 
-<p align="center">
-<img src="PUT_TSQUARE_IMAGE_HERE" width="800"/>
+<img width="171" height="65" alt="logo-white" src="https://github.com/user-attachments/assets/2f0eb570-fc10-45d3-8c13-c04c2ad01dab" />
 </p>
 
 ### 🔥 Features
@@ -72,7 +75,8 @@ React • Laravel • Bootstrap • MySQL
 ## 🌍 Diwan Al Ard
 
 <p align="center">
-<img src="PUT_DIWAN_IMAGE_HERE" width="800"/>
+<img width="673" height="513" alt="logo" src="https://github.com/user-attachments/assets/fc780789-b35c-4278-b5e8-e22f9c9d2b7d" />
+
 </p>
 
 ### 🔥 Features
@@ -82,7 +86,7 @@ React • Laravel • Bootstrap • MySQL
 - Optimized Performance
 
 ### ⚒️ Tech
-React • Laravel • REST APIs • MySQL
+React • Subabase • 
 
 ---
 
