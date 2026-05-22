@@ -1,231 +1,190 @@
-<h1 align="center">Hi 👋, I'm Mohamed Salama</h1>
-
-<h3 align="center">
-Full Stack Developer | React & Laravel Engineer 🚀
-</h3>
+# <p align="center"> Mohamed Salama | محمد سلامة </p>
 
 <p align="center">
-<img  alt="personalIMG" src="https://github.com/user-attachments/assets/2fb78f2f-6100-4143-b573-11b120f97c79"
-<img width="400" alt="LOGO22" src="https://github.com/user-attachments/assets/fd727cbc-8e37-4555-b5b6-fbc299eea80f" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+Laravel+Engineer;Building+Modern+Web+Experiences;مطور+واجهات+أمامية+وخلفية;مهندس+رياكت+ولارافيل" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Developer;Laravel+Developer;Building+Modern+Web+Experiences" />
-</p>
-
----
-# 💻 Technical Skills
-
-### Frontend Development
-- React.js
-- JavaScript / TypeScript
-- Responsive UI Development
-- Modern Dashboard Systems
-- API Integration
-- State Management
-- Component-Based Architecture
-
-### Backend Development
-- Laravel
-- REST APIs
-- Authentication Systems
-- Role & Permission Management
-- Database Design
-- Performance Optimization
-
-### UI/UX & Design
-- Modern UI Systems
-- Clean User Experience
-- Design-to-Code Workflow
-- Interactive Interfaces
-- Responsive Design Principles
-
-### Tools & Workflow
-- Git & GitHub
-- VS Code
-- Figma
-- Postman
-- Firebase
-- Vercel
-
----
-# 💫 About Me
-
-- 🎓 Computer Science Student
-- 💻 Full Stack Developer
-- ⚛️ React Enthusiast
-- 🐘 Laravel Backend Developer
-- 🎨 Passionate about UI/UX
-- 🚀 Building scalable modern web apps
-
----
-# 🧠 What I Can Build
-
-✅ SaaS Platforms  
-✅ Learning Management Systems (LMS)  
-✅ Admin Dashboards  
-✅ Full Stack Web Applications  
-✅ AI-Integrated Systems  
-✅ Real Estate Platforms  
-✅ Responsive Landing Pages  
-✅ Authentication & Role Systems  
-✅ Exam & Quiz Platforms  
-✅ Business Management Systems  
-
-I focus on building systems that are:
-- scalable
-- maintainable
-- production-ready
-- visually modern
-- optimized for performance 🚀
-
----
-
-# 🏛️ University
-
-<p align="center">
-  
-  <img width="350"  alt="LOGO22" src="https://github.com/user-attachments/assets/6c0489dd-9649-49e7-8f01-8b5111bf7791" />
+  <a href="https://dev-mohamed-salama.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=vercel" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-khairy-a97169334?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
 <p align="center">
-New Mansoura University
+<img  alt="personalIMG" src="https://github.com/user-attachments/assets/2fb78f2f-6100-4143-b573-11b120f97c79" width="150" style="border-radius: 50%" />
 </p>
 
 ---
 
-# ⚒️ Tech Stack
+## 💫 About Me | نبذة عني
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      <h3>English Version</h3>
+      <ul>
+        <li>🎓 <b>Computer Science Student</b> at New Mansoura University.</li>
+        <li>💻 <b>Full Stack Developer</b> specialized in React & Laravel.</li>
+        <li>🎨 <b>UI/UX Enthusiast</b> focused on clean and interactive experiences.</li>
+        <li>🚀 <b>Goal:</b> Building scalable, production-ready modern web applications.</li>
+      </ul>
+    </td>
+    <td width="50%" align="right" valign="top" dir="rtl">
+      <h3>النسخة العربية</h3>
+      <ul>
+        <li>🎓 <b>طالب علوم حاسب</b> بجامعة المنصورة الجديدة.</li>
+        <li>💻 <b>مطور واجهات أمامية وخلفية</b> متخصص في React و Laravel.</li>
+        <li>🎨 <b>مهتم بتجربة المستخدم (UI/UX)</b> لبناء واجهات تفاعلية وسلسة.</li>
+        <li>🚀 <b>هدفي:</b> بناء تطبيقات ويب عصرية، قابلة للتوسع، وجاهزة للاستخدام البرمجي.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Technical Skills | المهارات التقنية
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,php,laravel,mysql,firebase,nodejs,git,github,vscode,figma,vercel" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,php,laravel,mysql,firebase,git,github,vscode,figma" />
+<table width="100%">
+  <tr>
+    <th width="25%">Frontend</th>
+    <th width="25%">Backend</th>
+    <th width="25%">Design & Tools</th>
+    <th width="25%">Learning & More</th>
+  </tr>
+  <tr>
+    <td align="center">React / Next.js<br>TypeScript / JS<br>Tailwind / CSS</td>
+    <td align="center">Laravel / PHP<br>MySQL / PostgreSQL<br>REST APIs</td>
+    <td align="center">Figma / Adobe XD<br>VS Code / Postman<br>Vercel / Firebase</td>
+    <td align="center">LMS Architectures<br>SaaS Development<br>AI Integration</td>
+  </tr>
+</table>
 
+---
+
+## 🚀 Featured Projects | المشاريع المميزة
+
+### 🏢 T-Square LMS Platform | منصة تي سكوير التعليمية
+<p align="center">
+<img width="300" alt="logo-white" src="https://github.com/user-attachments/assets/2f0eb570-fc10-45d3-8c13-c04c2ad01dab" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      A modern Learning Management System (LMS) providing a complete digital learning experience for students, instructors, and admins.
+      <br><br>
+      <b>✨ Tech Stack:</b> React • Laravel • Bootstrap • MySQL
+    </td>
+    <td width="50%" align="right" valign="top" dir="rtl">
+      نظام إدارة تعلم (LMS) حديث يوفر تجربة تعليمية رقمية متكاملة للطلاب، المحاضرين، والمديرين.
+      <br><br>
+      <b>⚒️ التقنيات:</b> React • Laravel • Bootstrap • MySQL
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌍 Diwan Al Ard SaaS | منصة ديوان الأرض
+<p align="center">
+<img width="300" alt="logo" src="https://github.com/user-attachments/assets/fc780789-b35c-4278-b5e8-e22f9c9d2b7d" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      A comprehensive SaaS platform built to digitize real estate and land management workflows with AI-powered features.
+      <br><br>
+      <b>✨ Tech Stack:</b> React • Supabase • AI Integrations
+    </td>
+    <td width="50%" align="right" valign="top" dir="rtl">
+      منصة برمجية كخدمة (SaaS) شاملة تهدف إلى رقمنة سير عمل إدارة العقارات والأراضي مع ميزات مدعومة بالذكاء الاصطناعي.
+      <br><br>
+      <b>⚒️ التقنيات:</b> React • Supabase • AI Integrations
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💬 Real-Time Chat Application | تطبيق محادثة فوري
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      A seamless real-time communication platform featuring instant messaging, online status, and room management.
+      <br><br>
+      <b>✨ Tech Stack:</b> Next.js • Firebase • Tailwind CSS
+    </td>
+    <td width="50%" align="right" valign="top" dir="rtl">
+      منصة تواصل فوري سلسة تتميز بالرسائل الفورية، حالة الاتصال، وإدارة الغرف.
+      <br><br>
+      <b>⚒️ التقنيات:</b> Next.js • Firebase • Tailwind CSS
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛒 E-Commerce Solution | منصة تجارة إلكترونية
+<table width="100%">
+  <tr>
+    <td width="50%" align="left" valign="top">
+      A robust e-commerce platform with product management, shopping cart, and secure checkout integration.
+      <br><br>
+      <b>✨ Tech Stack:</b> Laravel • React • MySQL
+    </td>
+    <td width="50%" align="right" valign="top" dir="rtl">
+      منصة تجارة إلكترونية قوية مع إدارة المنتجات، عربة التسوق، وتكامل الدفع الآمن.
+      <br><br>
+      <b>⚒️ التقنيات:</b> Laravel • React • MySQL
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats | إحصائيات جيتهاب
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmohamed7salama&show_icons=true&theme=tokyonight&count_private=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmohamed7salama&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohamed7salama&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
-
----
-
-# 🏢 T-Square LMS Platform
-<p align="center"><img width="171" height="65" alt="logo-white" src="https://github.com/user-attachments/assets/2f0eb570-fc10-45d3-8c13-c04c2ad01dab" />
-</p>
-
-
-A modern Learning Management System (LMS) designed to provide a complete digital learning experience 🚀
-
-### ✨ Includes
-- Student Dashboard
-- Instructor Dashboard
-- Admin Panel
-- Courses Management
-- Quizzes & Exams System
-- Analytics & Reports
-- Role-Based Access Control
-- Responsive Modern UI
-
-### ⚒️ Tech
-React • Laravel • Bootstrap • MySQL
-
----
-
-## 🌍 Diwan Al Ard SaaS Platform
+## 🐍 Contribution Activity | مساهماتي
 
 <p align="center">
-<img width="350"  alt="logo" src="https://github.com/user-attachments/assets/fc780789-b35c-4278-b5e8-e22f9c9d2b7d" />
-
-</p>
-
-A modern SaaS platform built to solve real estate and land management challenges through smart digital solutions 🚀
-
-### 💡 Problem
-Traditional land and property workflows are often:
-- slow
-- unorganized
-- difficult to track
-- heavily dependent on manual processes
-
-This creates delays, data loss, and inefficient management.
-
----
-
-### ✅ Solution
-Diwan Al Ard digitizes the entire workflow through:
-- Smart Property Management
-- Centralized Data System
-- AI-Powered Features
-- Advanced Search & Filtering
-- Interactive Dashboards
-- Real-Time Data Handling
-- Scalable Cloud-Based Architecture
-
----
-
-### 🤖 AI Features
-- Smart recommendations
-- AI-assisted data analysis
-- Intelligent workflow optimization
-- Automated insights & management tools
-
----
-
-
-### ⚒️ Tech
-React • Subabase • AI Integrations
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devmohamed7salama&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devmohamed7salama&theme=tokyonight" />
-
+  <img src="https://raw.githubusercontent.com/devmohamed7salama/devmohamed7salama/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
 
-# 📈 Most Used Languages
+## 🌐 Connect With Me | تواصل معي
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmohamed7salama&layout=compact&theme=tokyonight" />
-
+  <a href="https://github.com/devmohamed7salama">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-khairy-a97169334?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev-mohamed-salama.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/devmohamed7salama/devmohamed7salama/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/devmohamed7salama">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://dev-mohamed-salama.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-✨ “Code. Build. Scale. Repeat.” ✨
+  <b>✨ “Code. Build. Scale. Repeat.” | "برمج. ابنِ. توسع. كرر." ✨</b>
 </p>
