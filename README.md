@@ -14,7 +14,41 @@ Full Stack Developer | React & Laravel Engineer 🚀
 </p>
 
 ---
+# 💻 Technical Skills
 
+### Frontend Development
+- React.js
+- JavaScript / TypeScript
+- Responsive UI Development
+- Modern Dashboard Systems
+- API Integration
+- State Management
+- Component-Based Architecture
+
+### Backend Development
+- Laravel
+- REST APIs
+- Authentication Systems
+- Role & Permission Management
+- Database Design
+- Performance Optimization
+
+### UI/UX & Design
+- Modern UI Systems
+- Clean User Experience
+- Design-to-Code Workflow
+- Interactive Interfaces
+- Responsive Design Principles
+
+### Tools & Workflow
+- Git & GitHub
+- VS Code
+- Figma
+- Postman
+- Firebase
+- Vercel
+
+---
 # 💫 About Me
 
 - 🎓 Computer Science Student
@@ -25,12 +59,33 @@ Full Stack Developer | React & Laravel Engineer 🚀
 - 🚀 Building scalable modern web apps
 
 ---
+# 🧠 What I Can Build
+
+✅ SaaS Platforms  
+✅ Learning Management Systems (LMS)  
+✅ Admin Dashboards  
+✅ Full Stack Web Applications  
+✅ AI-Integrated Systems  
+✅ Real Estate Platforms  
+✅ Responsive Landing Pages  
+✅ Authentication & Role Systems  
+✅ Exam & Quiz Platforms  
+✅ Business Management Systems  
+
+I focus on building systems that are:
+- scalable
+- maintainable
+- production-ready
+- visually modern
+- optimized for performance 🚀
+
+---
 
 # 🏛️ University
 
 <p align="center">
   
-  <img width="800" height="800" alt="LOGO22" src="https://github.com/user-attachments/assets/6c0489dd-9649-49e7-8f01-8b5111bf7791" />
+  <img width="350"  alt="LOGO22" src="https://github.com/user-attachments/assets/6c0489dd-9649-49e7-8f01-8b5111bf7791" />
 </p>
 
 <p align="center">
@@ -53,39 +108,71 @@ New Mansoura University
 
 ---
 
-## 🏢 T-Square
-<p align="center"><img width="673" height="513" alt="logo" src="https://github.com/user-attachments/assets/23bb9db5-d0f6-4762-b28e-19126259ce76" />
-
-<img width="171" height="65" alt="logo-white" src="https://github.com/user-attachments/assets/2f0eb570-fc10-45d3-8c13-c04c2ad01dab" />
+# 🏢 T-Square LMS Platform
+<p align="center"><img width="171" height="65" alt="logo-white" src="https://github.com/user-attachments/assets/2f0eb570-fc10-45d3-8c13-c04c2ad01dab" />
 </p>
 
-### 🔥 Features
-- Modern UI/UX
-- Responsive Design
-- Dynamic Dashboard
-- Clean Architecture
-- High Performance
+
+A modern Learning Management System (LMS) designed to provide a complete digital learning experience 🚀
+
+### ✨ Includes
+- Student Dashboard
+- Instructor Dashboard
+- Admin Panel
+- Courses Management
+- Quizzes & Exams System
+- Analytics & Reports
+- Role-Based Access Control
+- Responsive Modern UI
 
 ### ⚒️ Tech
 React • Laravel • Bootstrap • MySQL
 
 ---
 
-## 🌍 Diwan Al Ard
+## 🌍 Diwan Al Ard SaaS Platform
 
 <p align="center">
-<img width="673" height="513" alt="logo" src="https://github.com/user-attachments/assets/fc780789-b35c-4278-b5e8-e22f9c9d2b7d" />
+<img width="350"  alt="logo" src="https://github.com/user-attachments/assets/fc780789-b35c-4278-b5e8-e22f9c9d2b7d" />
 
 </p>
 
-### 🔥 Features
-- Elegant UI
-- Scalable Architecture
-- Interactive Experience
-- Optimized Performance
+A modern SaaS platform built to solve real estate and land management challenges through smart digital solutions 🚀
+
+### 💡 Problem
+Traditional land and property workflows are often:
+- slow
+- unorganized
+- difficult to track
+- heavily dependent on manual processes
+
+This creates delays, data loss, and inefficient management.
+
+---
+
+### ✅ Solution
+Diwan Al Ard digitizes the entire workflow through:
+- Smart Property Management
+- Centralized Data System
+- AI-Powered Features
+- Advanced Search & Filtering
+- Interactive Dashboards
+- Real-Time Data Handling
+- Scalable Cloud-Based Architecture
+
+---
+
+### 🤖 AI Features
+- Smart recommendations
+- AI-assisted data analysis
+- Intelligent workflow optimization
+- Automated insights & management tools
+
+---
+
 
 ### ⚒️ Tech
-React • Subabase • 
+React • Subabase • AI Integrations
 
 ---
 
