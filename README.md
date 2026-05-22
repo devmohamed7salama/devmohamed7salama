@@ -104,17 +104,49 @@
 
 ---
 
-## ⚙️ Engineering Approach
+## ⚙️ Engineering Mindset
 
 <p align="center">
 
-🧩 Scalable Architecture • 🛠 Maintainable Code • 🚀 Production Ready  
-🎨 Modern UI/UX • ⚡ Performance Optimized • 🔒 Secure by Design  
+🧩 Clean Code • 🛠 Maintainable Architecture • 🚀 Production-Ready Systems  
+🔒 Secure by Design • ⚡ Performance Optimized • 🎯 Scalable Solutions  
+📦 Reusable Components • 🧠 Smart Problem Solving • 🧹 Clean & Readable Code\
 
 </p>
 
 ---
+## 🤖 AI & Smart Tools
 
+I actively integrate AI into development workflows to build smarter, faster, and more intelligent systems 🚀
+
+### 🧠 AI Capabilities
+- AI-powered features integration in web apps  
+- Prompt engineering for automation & UX improvement  
+- Using AI APIs to enhance product intelligence  
+- Data-driven feature optimization  
+- Smart assistants & workflow automation  
+
+---
+
+### ⚒️ AI Tools I Work With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ai" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+</p>
+
+---
 ## 🚀 Featured Projects | المشاريع المميزة
 
 ### 🏢 T-Square LMS Platform | منصة تي سكوير التعليمية
