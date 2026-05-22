@@ -6,8 +6,7 @@ Full Stack Developer | React & Laravel Engineer 🚀
 
 <p align="center">
 <img  alt="personalIMG" src="https://github.com/user-attachments/assets/2fb78f2f-6100-4143-b573-11b120f97c79"
-<img width="800" height="800" alt="LOGO22" src="https://github.com/user-attachments/assets/fd727cbc-8e37-4555-b5b6-fbc299eea80f" />
-width="180" style="border-radius:50%" />
+<img width="400" alt="LOGO22" src="https://github.com/user-attachments/assets/fd727cbc-8e37-4555-b5b6-fbc299eea80f" />
 </p>
 
 <p align="center">
